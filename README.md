@@ -138,7 +138,7 @@ Multiple models were compared using **Cross-Validation (F2-score)** due to highe
 
 Model is deployed through streamlit
 
-[https://bmctermdeposit-aey9jpu8i3rvdviogh8fer.streamlit.app](https://bmc-deployed.streamlit.app)
+[Streamlit App Link](https://bmc-deployed.streamlit.app)
 
 ![streamlit](streamlit.jpeg)
 
@@ -146,7 +146,7 @@ Model is deployed through streamlit
 
 ## 9. Tableau
 
-https://public.tableau.com/app/profile/fransiska.sri.mayawi/viz/TableauFinalProject_17594030848810/Dashboard1?publish=yes
+[Tableau Public Link](https://public.tableau.com/app/profile/fransiska.sri.mayawi/viz/TableauFinalProject_17594030848810/Dashboard1?publish=yes)
 
 ![tableau](tableau.jpeg)
 
