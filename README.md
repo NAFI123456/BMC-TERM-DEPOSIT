@@ -140,6 +140,8 @@ Model is deployed through streamlit
 
 [https://bmctermdeposit-aey9jpu8i3rvdviogh8fer.streamlit.app](https://bmc-deployed.streamlit.app)
 
+![streamlit](streamlit.jpeg)
+
 ---
 
 ## 9. Tableau
