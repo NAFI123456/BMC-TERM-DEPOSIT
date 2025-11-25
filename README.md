@@ -148,7 +148,7 @@ Model is deployed through streamlit
 
 [Tableau Public Link](https://public.tableau.com/app/profile/fransiska.sri.mayawi/viz/TableauFinalProject_17594030848810/Dashboard1?publish=yes)
 
-![tableau](tableau.jpeg)
+![tableau](dashboard.jpeg)
 
 ---
 
